@@ -66,10 +66,3 @@ If you need something built, let's talk!
 </div>
 
 ---
-
-<div align="center">
-
-*"Código bom é aquele que funciona — código ótimo é aquele que qualquer um entende."*  
-*"Good code works — great code anyone can understand."*
-
-</div>
