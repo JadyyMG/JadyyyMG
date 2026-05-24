@@ -56,13 +56,9 @@ If you need something built, let's talk!
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true)
+*"Código bom é aquele que funciona — código ótimo é aquele que qualquer um entende."*  
+*"Good code works — great code anyone can understand."*
 
 </div>
-
----
